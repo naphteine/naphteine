@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gguilt
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning existential crisis
+- 💞️ I’m looking to collaborate on double suicide
