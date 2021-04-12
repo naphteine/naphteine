@@ -1,4 +1,4 @@
-- :godmode: Hi, I’m @gguilt
+- 👋 Hi, I’m @gguilt :godmode:
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning existential crisis
 - 💞️ I’m looking to collaborate on double suicide
