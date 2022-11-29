@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gguilt :godmode:
+- 👋 Hallo, ich bin @gguilt :godmode:
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate
