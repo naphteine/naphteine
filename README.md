@@ -1,4 +1,4 @@
-- 👋 Hallo, ich bin @naphteine :godmode:
+- 👋 Hello! I'm Gökay :godmode:
 - 👀 I’m interested in Golang
 - 🌱 I’m currently learning React and Next.js
 - 💞️ I'm in love with synthwave, Emacs, Lisp, Godot and OpenBSD
