@@ -4,5 +4,3 @@
 - 💞️ I'm in love with synthwave, Emacs, Lisp, Godot and OpenBSD
 
 If art interprets our dreams, the computer executes them in the guise of programs.
-
-![](https://komarev.com/ghpvc/?username=naphteine)
