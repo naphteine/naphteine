@@ -5,4 +5,4 @@
 
 If art interprets our dreams, the computer executes them in the guise of programs.
 
-![Lain](./lon.gif | width=150)
+<img src="./lon.gif" alt="Lain" width="200"/>
