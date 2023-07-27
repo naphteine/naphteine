@@ -1,7 +1,8 @@
 - 👋 Hello! I'm Gökay :godmode:
 - 👀 I’m interested in Golang
 - 🌱 I’m currently learning React and Next.js
-- 💞️ I'm in love with synthwave, Emacs, Lisp, Godot and OpenBSD
+- 💞️ I'm in love with Emacs, Lisp, Godot and OpenBSD
+- 🎵 I'm listening Boards of Canada, Alcian Blue, Slowdive and more.
 
 If art interprets our dreams, the computer executes them in the guise of programs.
 
