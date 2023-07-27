@@ -5,8 +5,6 @@
 
 If art interprets our dreams, the computer executes them in the guise of programs.
 
-<img src="./lon.gif" alt="Lain" width="200"/>
-
 <details>
 <summary>Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=naphteine">
