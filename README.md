@@ -1,4 +1,4 @@
-- 👋 Hello! I'm Gökay :godmode:
+- 👋 Hello! I'm Gökay 🇹🇷🇬🇧🇯🇵
 - 👀 I’m interested in Golang
 - 🌱 I’m currently learning React and Next.js
 - 💞️ I'm in love with Emacs, Lisp, Godot and OpenBSD
