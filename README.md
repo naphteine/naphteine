@@ -1,6 +1,7 @@
 - 👋 Hello! I'm Gökay 🇹🇷🇬🇧🇯🇵
 - 👀 I’m interested in Golang
 - 🌱 I’m currently learning React and Next.js
+- 🍀 I'm into boxing 🥊, cooking 🍜, and violin 🎻
 - 💞️ I'm in love with Emacs, Lisp, Godot and OpenBSD
 - 🎵 I'm listening to Boards of Canada, Alcian Blue, Slowdive and more
 
